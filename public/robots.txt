@@ -10,4 +10,4 @@ Allow: /meta.jpg
 Allow: /site.webmanifest
 Allow: /sitemap.xml
 
-Sitemap: https://image.kixtools.com/sitemap.xml
+Sitemap: https://kix.880200.xyz/sitemap.xml
